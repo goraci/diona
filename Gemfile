@@ -19,3 +19,4 @@ gem "launchy", ">= 2.0.5", :group => :test
 gem "bson_ext", ">= 1.3.1"
 gem "mongoid", ">= 2.2.0"
 gem "devise", ">= 1.4.4"
+gem "capistrano"
